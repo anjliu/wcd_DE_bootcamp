@@ -1,8 +1,13 @@
-# Chapter 1: Linux
-## Assignment 1: Download data and combine
-Download data via shell script. <br>
-Combine data via python script - call this python script in the shell script. 
+# Chapter 2: Linux
+## Assignment 2: process files in a docker container
+Given: <br> 
+Data files (csv) and processing script (Python) <br>
+Task: <br>
+Create a Dockerfile to build an image <br>.
+Run a container using the image and execute pythong script.
 
 ### Contents:
-- shell script
+- shell script containing docker commands
+- Dockerfile
 - Python script
+- input and output data
