@@ -1,5 +1,7 @@
 # Chapter 1: Linux
-## Project 1: Download data via shell script and combine with Python script called by shell script
+## Assignment 1: Download data and combine
+Download data via shell script. <br>
+Combine data via python script - call this python script in the shell script. 
 
 ### Contents:
 - shell script
