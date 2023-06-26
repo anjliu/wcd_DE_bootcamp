@@ -1,0 +1,6 @@
+[aws]
+bucket='wcd-assignments'
+folder='chapter3/assignment3.1/'
+
+[run]
+get_data.py
