@@ -4,7 +4,7 @@ Given: <br>
 Data files (csv) and processing script (Python) <br>
 Task: <br>
 Create a Dockerfile to build an image <br>.
-Run a container using the image and execute pythong script.
+Run a container using the image and execute python script.
 
 ### Contents:
 - shell script containing docker commands
